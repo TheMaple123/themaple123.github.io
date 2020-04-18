@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+## Welcome to Maple's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/TheMaple123/themaple789.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这个网页是中文的，不过没关系，你大概会在未来25年看到英文翻译
+This page is in Chinese, but don't worry , you'll see an English translation in the next about 25 years
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 说明
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+”啊！为什么这个网页这么丑“这是有原因的
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1.没有上大学，还穷，买不起阿里云10块钱撑死的学生套餐。
+2.不懂HTML
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+如果你不想看这么丑的网页，你可以吧这个下下来看 [Maple Web](https://themaple0017.lanzous.com/ibkh7sd).
 
-### Jekyll Themes
+我把原网页的字写在这吧
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheMaple123/themaple789.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 首页
 
-### Support or Contact
+Hi 你好!           
+姓名 枫Maple              
+生日 ****-3-23             
+手机 138********                
+地址 China              
+E-MAIL 略            
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 我的介绍
+Hi! 我叫 枫     
+本人咸鱼一只，是学生，热爱游戏、科技、番剧等等            
+
+### 关于我
+
+#### 游戏
+Minecraft、Undertale、PVZ、Steam等        
+
+#### 科技
+学习Java ing... 打算学HTML（别问我这个是怎么做的） Office、Adobe都只会一、
+
+#### 学习
+上学ing 热爱理科，理科万岁
+
+#### 愿望
+想买电脑，想买游戏，还有贼多愿望。不细说了
+
+# 网页图片
+
+[Pixiv](https://www.pixiv.net/artworks/65053285)  [我自己做的图床](https://s1.ax1x.com/2020/04/17/JZHNkj.jpg)
+
+[Doge-图床](https://s1.ax1x.com/2020/04/18/Je1a5T.jpg)
+
+
+
